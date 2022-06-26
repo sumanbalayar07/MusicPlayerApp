@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MetaMusicPlayer</string>
+    <string name="todo" />
+    <string name="share_app"/>
+    <string name="privacy_policy" />
+    <string name="contact_us" />
+    <string name="privacy" >I am an engineering student who is the owner of this app. We pledge to protect the User privacy and data at any cost. So, Please Trust Us.</string>
+</resources>
